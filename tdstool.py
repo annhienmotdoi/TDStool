@@ -96,7 +96,7 @@ class TraoDoiSub_Api (object):
 def delay(dl):
   try:
     for i in range(dl, -1, -1):
-       print(f'{vang}[{trang} Copyright(c)AT:0933954440 {vang}][{trang}'+str(i)+vang+']           ',end='\r')
+       print(f'{vang}[{trang} Copyright © by AT:0933954440 {vang}][{trang}'+str(i)+vang+']           ',end='\r')
        sleep(1)
   except:
      sleep(dl)
