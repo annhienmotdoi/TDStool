@@ -1,4 +1,4 @@
-
+Copyright © AT:0933954440
 Setup: 
 pkg update -y
 pkg install x11-repo -y
