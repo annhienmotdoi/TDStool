@@ -8,7 +8,7 @@ lamd = "\033[1;34m"
 lam = "\033[1;36m"
 purple = "\e[35m"
 hong = "\033[1;95m"
-# Đánh dấu bản quyền
+
 thanh_xau= trang + "~" + red + "[" + vang+ "⟨⟩" + red + "] " + trang + "➩ "
 thanh_dep= trang + "~" + red + "[" + luc + "✓" + red + "] " + trang + "➩ "
 ##### Cài Thư Viện #####
